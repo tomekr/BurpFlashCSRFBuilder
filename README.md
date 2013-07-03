@@ -27,7 +27,7 @@ yellow
 
 ## Installation
 
-1. Add the BurpFlashCSRFBuilder-0.1.0.jar located in the target folder
+1. Add the BurpFlashCSRFBuilder-0.1.4.jar located in the target folder
    to the list of extensions located in the Burp Extender tab.
 
 ## Screenshots
