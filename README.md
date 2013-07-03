@@ -42,3 +42,7 @@ yellow
 - Add help icon to explain a preflight
 - Add a help icon to show blacklisted headers
  
+## Bugs
+
+Please submit any issues you encounter with the plugin to the repo's
+[Issue Page](https://github.com/tomekr/BurpFlashCSRFBuilder/issues)
